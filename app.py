@@ -93,7 +93,7 @@ You are an experienced interviewer with a deep understanding of technical and be
 """
 
 # Specify the path to the poppler bin directory
-poppler_path = r'C:\poppler-24.02.0\Library\bin'
+poppler_path = r'C:\Users\rawat\Downloads\Release-24.02.0-0\poppler-24.02.0\Library\bin'
 
 if submit1:
     if uploaded_file is not None:
